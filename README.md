@@ -1,8 +1,6 @@
 # machine-learning-project
 01.112 Machine Learning Design Project
 
-Group member: Gao Yiming 1002180, Li Xueqing 1002182, Zang Xueqing 1002185
-
 Instruction: 
 For Part2&4, just run the ipynb file.
 For Part3&5, there is no evaluation code in the file. You may add the following code
